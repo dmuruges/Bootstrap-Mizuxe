@@ -25,4 +25,7 @@ body {
   #showcase {
     min-height: 500px; }
     #showcase h1 {
-      font-size: 3.5rem; } }
+      font-size: 3.5rem; }
+
+  .mb-resp {
+    margin-bottom: 1rem; } }
